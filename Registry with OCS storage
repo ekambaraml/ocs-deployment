@@ -1,0 +1,5 @@
+How to Configure OCS storage for registry
+
+https://www.openshift.com/blog/configure-the-openshift-image-registry-backed-by-openshift-container-storage
+
+oc edit configs.imageregistry.operator.openshift.io
